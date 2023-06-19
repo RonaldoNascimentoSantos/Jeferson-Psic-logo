@@ -1,0 +1,21 @@
+.perfil-conteudo{
+    margin: 35px 0;
+    text-align: center;
+    color: var(--cor-terciaria);
+    height: 250px;
+    align-items: center;
+  
+    
+}
+
+.perfil-imagem{
+    display: flex;
+    margin: auto;
+    width: 96px;
+    height: 96px;
+    background-image: url('../../assets/jeferson.jpg');
+    background-size: cover;
+    border-radius: 20%;
+    height: 100px;
+
+}

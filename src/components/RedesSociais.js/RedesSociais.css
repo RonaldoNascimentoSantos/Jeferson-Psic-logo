@@ -1,0 +1,55 @@
+
+
+a {
+    background-color: var(--cor-secundaria);
+    border-radius: 12px;
+    color: var(--cor-bg);
+    display: flex;
+    font-size: 1.2rem;
+    font-weight: 600;
+    justify-content: center;
+    margin: 15px;
+    padding: 18px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: .3s ease-in;
+}
+
+a:hover{
+    transform: scale(1.03);
+}
+
+.conteudo-links{
+    max-width: 800px;
+    margin: 0;
+    align-items: center;
+
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    gap:10px;
+    
+
+    
+    
+
+}
+
+.linkss{
+  
+}
+
+.links div {
+    width: 50%;
+}
+
+.criado{
+    text-align: center;
+    margin-top: 50px;
+}
+
